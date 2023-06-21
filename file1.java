@@ -7,8 +7,5 @@ public class Main {
         System.out.println("Jak masz na imię?");
         String name = sc.nextLine();
         System.out.println("Masz na imię " + name);
-        for(int i = 0; i < 16; i++){
-            System.out.println(i);
-        }
     }
 }
